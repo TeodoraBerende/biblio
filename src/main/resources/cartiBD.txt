@@ -1,0 +1,7 @@
+1;Povesti;Mihai Eminescu,Ion Caragiale,Ion Creanga;1973;Corint;povesti,povestiri
+2;Poezii;Sadoveanu;1973;Corint;poezii
+3;Enigma Otiliei;George Calinescu;1948;Litera;enigma,otilia
+4;Dale carnavalului;Caragiale Ion;1948;Litera;caragiale,carnaval
+5;Intampinarea crailor;Mateiu Caragiale;1948;Litera;mateiu,crailor
+6;Povesti;Ion Caragiale,Mihai Eminescu,Ion Creanga,Tudor;1990;Corint;povesti,povestiri6
+7;1984;George Orwell;2013;Penguin Books;totalitarism,contemporan
